@@ -1,3 +1,7 @@
 This is the first checkin for the feature branch.
 
+<<<<<<< HEAD
 This is an update for the develop branch.
+=======
+Updated Remotely
+>>>>>>> 4ad9882c9b1ccb98b0e3056821b90195bd5ef346
